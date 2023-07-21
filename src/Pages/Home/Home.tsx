@@ -21,7 +21,7 @@ const Home = () => {
     }
     inputRef.current.value = "";
   };
-  // set content to show
+  // set content to show on ui
   let content = null;
 
   if (shortLink) {
