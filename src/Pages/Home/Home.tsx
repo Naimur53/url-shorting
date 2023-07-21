@@ -33,7 +33,7 @@ const Home = () => {
           target="_blank"
           className="mt-1 inline-block  transition-all hover:text-blue-500 hover:underline font-bold "
         >
-          {shortLink} https://url-shorting-production.up.railway.app/
+          {shortLink}
         </Link>
         <div>
           <button className="btn-blue" onClick={() => setShortLink("")}>
