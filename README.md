@@ -20,17 +20,7 @@ This is a link-shortening web app that allows users to generate short links for 
 
 ## Screenshots
 
-![Home Page](url_to_home_page_screenshot)
-![My URLs Page](url_to_my_urls_page_screenshot)
-![Edit URLs Page](url_to_edit_urls_page_screenshot)
-
-## Getting Started
-
-To get started with the project, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/your_username/your_project.git`
-2. Open the project in your preferred code editor.
-3. Launch the web app in your browser by opening the `index.html` file.
+![Home Page](https://i.ibb.co/6vV5hzk/Capddddddddsature-1.jpg)  
 
 ## Usage
 
