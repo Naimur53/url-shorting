@@ -1,8 +1,8 @@
-# Project Name
-
+# Url Shorting
+link: 
 ## Description
 
-This is a link shortening web app that allows users to generate short links for their URLs. The app is based on local storage and consists of three main pages:
+This is a link-shortening web app that allows users to generate short links for their URLs. The app is based on local storage and consists of three main pages:
 
 1. Home Page: Here, users can generate short links for their URLs.
 2. /my-urls: This page displays all the URLs that the user has generated.
