@@ -1,4 +1,3 @@
-import { IUrl } from "../Interface";
 function getRandomString() {
   const random_string =
     Math.random().toString(32).substring(2, 5) +
@@ -6,7 +5,6 @@ function getRandomString() {
   return random_string;
 }
 const shortingLink = (link: string): string => {
-  console.log();
   // https:// or http://
   const host = window.location.host;
   const httpProtocol = window.location.protocol;

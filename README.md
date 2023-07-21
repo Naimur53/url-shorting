@@ -1,47 +1,45 @@
-# Getting Started with Create React App
+# Project Name
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description
 
-## Available Scripts
+This is a link shortening web app that allows users to generate short links for their URLs. The app is based on local storage and consists of three main pages:
 
-In the project directory, you can run:
+1. Home Page: Here, users can generate short links for their URLs.
+2. /my-urls: This page displays all the URLs that the user has generated.
+3. /edit-urls: Users can edit existing URLs on this page. The app prevents users from generating short links for existing links and invalid URLs.
 
-### `npm start`
+## Technologies Used
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- HTML
+- CSS
+- JavaScript
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Screenshots
 
-### `npm test`
+![Home Page](url_to_home_page_screenshot)
+![My URLs Page](url_to_my_urls_page_screenshot)
+![Edit URLs Page](url_to_edit_urls_page_screenshot)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Getting Started
 
-### `npm run build`
+To get started with the project, follow these steps:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. Clone the repository: `git clone https://github.com/your_username/your_project.git`
+2. Open the project in your preferred code editor.
+3. Launch the web app in your browser by opening the `index.html` file.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Usage
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- On the home page, enter a URL and click the "Generate Short Link" button to generate a short link.
+- Navigate to the /my-urls page to view all the URLs you have generated.
+- Visit the /edit-urls page to edit existing URLs.
 
-### `npm run eject`
+Please note that the app will prevent you from generating short links for existing URLs and invalid links.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Contact Me
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+For any questions or feedback, feel free to reach out to me:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-# url-shorting
+- Email: naimurrhman53@gmail.com
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/naimurrhman/)
+- Facebook: [Facebook Profile](https://fb.com/your_username)
