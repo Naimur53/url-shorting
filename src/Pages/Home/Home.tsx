@@ -26,12 +26,12 @@ const Home = () => {
 
   if (shortLink) {
     content = (
-      <div className="">
+      <div className="px-4">
         <h2 className="text-xl font-semibold">Generated Link</h2>
         <Link
           to={shortLink}
           target="_blank"
-          className="mt-1 inline-block md:text-2xl transition-all hover:text-blue-500 hover:underline font-bold "
+          className="mt-1 inline-block md:text-xl transition-all hover:text-blue-500 hover:underline font-bold "
         >
           {shortLink}
         </Link>

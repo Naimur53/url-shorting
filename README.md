@@ -1,5 +1,7 @@
 # Url Shorting
-link: 
+
+link: https://url-shorting-production.up.railway.app/
+
 ## Description
 
 This is a link-shortening web app that allows users to generate short links for their URLs. The app is based on local storage and consists of three main pages:
