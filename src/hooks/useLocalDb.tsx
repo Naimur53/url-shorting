@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import { IUrl } from "../Interface";
 import localDb from "../utilities/localDb";
 import { toast } from "react-toastify";
