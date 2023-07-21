@@ -12,7 +12,9 @@ This is a link shortening web app that allows users to generate short links for 
 
 - HTML
 - CSS
-- JavaScript
+- Tailwind
+- TypeScript
+- React
 
 ## Screenshots
 
@@ -42,4 +44,4 @@ For any questions or feedback, feel free to reach out to me:
 
 - Email: naimurrhman53@gmail.com
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/naimurrhman/)
-- Facebook: [Facebook Profile](https://fb.com/your_username)
+- Facebook: [Facebook Profile](https://www.facebook.com/naimur.rahman.39501789/)
